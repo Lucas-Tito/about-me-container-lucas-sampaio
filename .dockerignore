@@ -1,0 +1,10 @@
+# Arquivos que nao fazem parte da aplicacao web servida pelo nginx
+.git
+.gitignore
+.github
+docs
+Dockerfile
+.dockerignore
+.DS_Store
+.history
+README.md
